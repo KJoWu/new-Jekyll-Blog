@@ -5,9 +5,21 @@
     <description>A blog about my favorite web conferences.</description>
     <link>http://webconfs.me/</link>
     <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Aug 2015 12:04:59 -0600</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2015 12:04:59 -0600</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2015 14:29:54 -0600</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2015 14:29:54 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>draft work</title>
+        <description>&lt;p&gt;this is a practice post draft. 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus magnam laboriosam, temporibus labore, earum perferendis, consequuntur distinctio dolores quia porro incidunt consectetur! Enim modi eaque, nobis placeat, accusantium fugiat ut.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Aug 2015 14:27:38 -0600</pubDate>
+        <link>http://webconfs.me/draft_work</link>
+        <guid isPermaLink="true">http://webconfs.me/draft_work</guid>
+        
+        
+      </item>
     
       <item>
         <title>Second Post</title>

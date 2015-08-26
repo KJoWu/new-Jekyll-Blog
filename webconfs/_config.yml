@@ -21,3 +21,9 @@ defaults:
       layout: "post"
       category: blogging 
       author: Cool Dude
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "page"
