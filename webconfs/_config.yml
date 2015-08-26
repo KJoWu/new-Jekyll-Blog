@@ -22,6 +22,7 @@ defaults:
       layout: "post"
       category: blogging 
       author: Cool Dude
+      comments: true
   -
     scope:
       path: "" # an empty string here means all files in the project
